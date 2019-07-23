@@ -6,8 +6,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 #My mail info
-MY_ADDRESS = 'southeastcomputerclub@gmail.com'
-PASSWORD = 'seuintra2k19'
+MY_ADDRESS = 'mailHere@gmail.com'
+PASSWORD = 'passwordHere'
 
 #Read the contacts 
 def get_contacts(filename):
