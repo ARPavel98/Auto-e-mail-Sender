@@ -1,0 +1,16 @@
+Dear ${PERSON_NAME},
+
+We are happy to inform you that you have been selected for ****** in ${CATAGORY_NAME} category.
+
+Payment procedure:
+**** ******
+
+
+Coupon collection:
+Collect your coupon******** the .
+
+Your information: 
+Name: ${PERSON_NAME}
+Student ID: ${PERSON_ID}
+Batch: ${PERSON_BTACH}
+Let us know if anything wrong. 
