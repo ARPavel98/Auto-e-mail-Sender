@@ -1,9 +1,9 @@
 # Template E-Mail Sender
-*This script reads emails adress from a text file and a message template from another text file, modify the message template using contact data for every contacts in the contact file and sends it.*
+*A Python Script to send custom mail to single or multiple recievers with custom informtaions according to the receiver information for each reciever. 
 
 
 ### USE
-This script uses Message.txt to read message template to make custom messages and Contact.txt to read reciever mail addreses. 
+Message.txt used to read message template to make custom messages and Contact.txt to read reciever mail addreses. 
 
 ##### Message Template
 ```
