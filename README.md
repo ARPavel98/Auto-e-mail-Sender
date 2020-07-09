@@ -9,14 +9,13 @@ Message.txt used to read message template to make custom messages and Contact.tx
 ```
 Dear ${PERSON_NAME},
 
-We are happy to inform you that you have been selected for ****** in ${CATAGORY_NAME} category.
+We are happy to inform you that you have been selected for the XYZ program in  the ${CATAGORY_NAME} category.
 
 Payment procedure:
-**** ******
-
+Use default Payment Gateway
 
 Coupon collection:
-Collect your coupon******** the .
+Collect your coupon  from both-10@Main Buliding .
 
 Your information: 
 Name: ${PERSON_NAME}
