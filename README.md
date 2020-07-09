@@ -1,5 +1,5 @@
 # Template E-Mail Sender
-*A Python Script to send custom mail to single or multiple recievers with custom informtaions according to the receiver information for each reciever. 
+*A Python Script to send custom mail to single or multiple recievers with custom informtaions according to the receiver information for each reciever.* 
 
 
 ### USE
